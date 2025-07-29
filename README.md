@@ -281,12 +281,14 @@ pie title Skills Distribution
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarSaeed20&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OmarSaeed20&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarSaeed20&theme=tokyonight)
+</div> -->
 
 ---
 
