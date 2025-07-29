@@ -11,7 +11,7 @@
   <!-- <div id="badges"> -->
 
 <!-- <div align="center"> -->
-    
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Flutter+Developer;Experienced+UI+%2F+UX+Designer;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
@@ -283,7 +283,8 @@ pie title Skills Distribution
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OmarSaeed20&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarSaeed20&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 </div>
 
