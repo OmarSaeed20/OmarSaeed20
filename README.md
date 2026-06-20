@@ -22,7 +22,7 @@
 
 > 💻 **Passionate Flutter Developer** from Egypt with **4+ years** of experience in building production-level mobile applications
 
-- 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS, Web, Desktop)
+- 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS, Web)
 - 📱 **Specialization**: High-performance apps with clean architecture
 - 🏆 **Achievement**: Reduced app load times by **70%** across projects
 - 🎓 **Education**: B.Sc. Commerce (English Section) - Menoufia University (2019-2023)
