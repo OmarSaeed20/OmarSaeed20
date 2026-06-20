@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I%27m+Flutter+Developer;Experienced+UI+%2F+UX+Designer;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-blond.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhamode106@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/S75YYDZVP773A1)
@@ -420,6 +421,7 @@ mindmap
 
 ### 🤝 **Ready to collaborate? Let's build something amazing together!**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-blond.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-omarhamode106@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhamode106@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Saeed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+201067496938-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/S75YYDZVP773A1)
