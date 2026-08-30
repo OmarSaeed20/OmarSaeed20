@@ -28,6 +28,8 @@
 - 🏆 **Achievement**: Reduced app load times by **70%** across projects
 - 🎓 **Education**: B.Sc. Commerce (English Section) - Menoufia University (2019-2023)
 - 👨‍🏫 **Mentorship**: Guided **6+ junior developers** on Flutter best practices
+- 📦 **Output**: **22+ production apps** across various platforms
+- ⚡ **Throughput**: **60+ shipped features** in 12 months across 22 active repos
 
 ```mermaid
 graph LR
@@ -99,19 +101,18 @@ Performance Tuning    ███████████████████�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### **Networking**
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+#### **Navigation**
+![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### **Persistence**
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### **Navigation**
-![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Secure storage](https://img.shields.io/badge/flutter_secure_storage-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### **Testing**
 ![flutter_test](https://img.shields.io/badge/flutter_test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -124,7 +125,24 @@ Performance Tuning    ███████████████████�
 
 #### 🎨 **Design Systems**
 ![Material Design 3](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+#### 💼 **PM & Productivity**
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+#### 🤖 **AI & MCP**
+![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=claude&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+#### ☁️ **Infra & Observability**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 </div>
 
@@ -159,6 +177,10 @@ timeline
     2025 : Sourcya Company (Sep 2025 - Present)
          : Senior Flutter Developer
          : TMT Track, Nasni, Kold, Arbeta, Rehla
+    
+    2026 : Sourcya Company (Sep 2025 - Present)
+         : Senior Flutter Developer
+         : 534+ commits, 20+ repos, 60+ shipped features
 ```
 
 ### 🏢 **Current Positions**
@@ -177,11 +199,11 @@ timeline
 <td width="50%">
 
 #### ♻️ **Drop Me Company** 
-**Lead Flutter Developer** _(Jan 2023 - Present)_ · _Part-time / Side Project_
+**Lead Flutter Developer (Part-time)** _(Jan 2023 - Present)_
 - Community-driven recycling platform
 - Real-time rewards system
 - Sustainable practices gamification
-- Maintained alongside full-time roles
+- Ongoing part-time alongside full-time roles
 
 </td>
 </tr>
@@ -195,16 +217,17 @@ timeline
 
 ### 🏆 **Production Apps**
 
-| App | Platform | Downloads | Rating |
-|-----|----------|-----------|---------|
-| **TMT Track** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.tmt.track.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/ms/app/tmt-live-app/id6749963131) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://gps.tmtx.io/) | +10K | ⭐ 5 |
-| **Drop Me** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropme.recycling) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/drop-me-recycle-in-seconds/id6748382942) | 1K+ | ⭐ 5 |
-| **Nasni** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.nasni.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/nasni/id6754703562) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://app.nasni.io/) | +500 | ⭐ 5 |
-| **Kold** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.kold.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/kold/id6754703360) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://app.koldx.io/) | +500 | ⭐ 5 |
-| **Arbeta** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.arbeta.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/arbeta-workforce/id6746787214) | +100 | ⭐ 5 |
-| **Ammena** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.sourcya.swnw.app) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://swnw.amenaa.com/) | — | — |
-| **Mafrooz** | [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://hub.app.mfroz.com/) | — | — |
-> 💡 **Additional Apps**: Az-Cash, El Aqarat, Zaakr, 3M Physics, Super School, E-learning, Rehla (Driver/Passenger/Operator/Station), Cars, General Consultation — bringing the total to **16+ production apps** across various platforms.
+| App | Platform |
+|-----|----------|
+| **TMT Track** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.tmt.track.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/ms/app/tmt-live-app/id6749963131) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://gps.tmtx.io/) |
+| **Drop Me** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropme.recycling) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/drop-me-recycle-in-seconds/id6748382942) |
+| **Nasni** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.nasni.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/nasni/id6754703562) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://app.nasni.io/) |
+| **Kold** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.kold.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/kold/id6754703360) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://app.koldx.io/) |
+| **Arbeta** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.arbeta.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/arbeta-workforce/id6746787214) |
+| **Ammena** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.sourcya.swnw.app) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://swnw.amenaa.com/) |
+| **Mafrooz** | [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://hub.app.mfroz.com/) |
+| **Rehla** | [![Driver GP](https://img.shields.io/badge/Driver_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.driver.app) [![Passenger GP](https://img.shields.io/badge/Passenger_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.rehla.passenger.app) [![Operator Web](https://img.shields.io/badge/Operator_Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rehla-operator-app.vercel.app/) [![Station Web](https://img.shields.io/badge/Station_Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rehla-station-app.vercel.app/) |
+> 💡 **Additional Apps**: Madaan Operator, Mafrooz Cockpit, Rehla Ride, Maydan, Ujrah Driver, PlayX Ecosystem, Az-Cash, El Aqarat, Zaakr, 3M Physics, Super School, E-learning, Cars, General Consultation — bringing the total to **22+ production apps** across various platforms.
 
 
 </div>
@@ -253,7 +276,7 @@ timeline
 > Ride-hailing & transportation platform
 - **Apps**: Operator, Driver, Passenger, Station
 - **Features**: Multi-role architecture, real-time matching, route management
-- **Links**: [Driver - Google Play](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.driver.app) · [Driver - App Store](https://apps.apple.com/eg/app/rehla-driver/id6759146405) · [Passenger - Google Play](https://play.google.com/store/apps/details?id=com.altatawwar.rehla.passenger.app)
+- **Links**: [Driver - Google Play](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.driver.app) · [Driver - App Store](https://apps.apple.com/eg/app/rehla-driver/id6759146405) · [Passenger - Google Play](https://play.google.com/store/apps/details?id=com.altatawwar.rehla.passenger.app) · [Operator - Web](https://rehla-operator-app.vercel.app/) · [Station - Web](https://rehla-station-app.vercel.app/)
 
 ---
 
@@ -263,6 +286,7 @@ timeline
 - **Platforms**: Android, iOS
 - **Links**: [Google Play](https://play.google.com/store/apps/details?id=com.dropme.recycling) · [App Store](https://apps.apple.com/eg/app/drop-me-recycle-in-seconds/id6748382942)
 - **Impact**: Promoting eco-friendly practices through gamification
+- **Status**: Ongoing part-time
 
 ---
 
@@ -278,6 +302,12 @@ timeline
 - **Features**: Real-time consultations, multi-domain expertise
 - **Domains**: Marketing, Finance, Strategy consulting
 
+### 📦 **PlayX Ecosystem**
+> Open-source Flutter package ecosystem
+- **GitHub**: [View Organization](https://github.com/playx-flutter)
+- **Packages**: playx_network (streaming/SSE, interceptors, path params), playx_core (extensions, mapper utils), playx_version_update
+- **Type**: Open-source contribution
+
 
 </details>
 
@@ -292,7 +322,8 @@ timeline
 | **Performance Optimization** | 70% faster load times | 2023-2024 |
 | **Team Leadership** | Mentored 6+ developers | 2023-Present |
 | **Localization Expert** | Arabic/English in all apps | 2022-Present |
-| **Production Deployments** | 10+ apps on Google Play | 2022-Present |
+| **Production Deployments** | 22+ production apps across platforms | 2022-Present |
+| **Throughput** | 534+ commits across 20+ repos, 61 features | 2025-2026 |
 
 </div>
 
@@ -407,7 +438,7 @@ mindmap
 </div>
 
 ### ✨ **Core Strengths**
-- 🎯 **Proven Track Record**: 10+ production apps across multiple platforms
+- 🎯 **Proven Track Record**: 22+ production apps across multiple platforms
 - ⚡ **Performance Expert**: Consistently improved app performance by 70%
 - 👥 **Team Leadership**: Successfully mentored junior developers
 - 🏗️ **Architecture Guru**: Clean Architecture and SOLID principles advocate
@@ -435,6 +466,6 @@ mindmap
 
 **⭐ Star this repository if you found it helpful!**
 
-*Last updated: June 2026*
+*Last updated: August 2026*
 
 </div>
