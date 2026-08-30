@@ -1,15 +1,15 @@
 
 <div id="header" align="center">
   <h1>
-    👋 Omar Saeed - Flutter Developer
+    👋 Omar Saeed - Senior Flutter Developer
   </h1>
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I%27m+Flutter+Developer;Experienced+UI+%2F+UX+Designer;Always+Learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Senior+Flutter+Developer;4%2B+Years+%C2%B7+22%2B+Production+Apps;Open+to+new+opportunities&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-blond.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saied-5a25491ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhamode106@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/S75YYDZVP773A1)
 
@@ -21,15 +21,15 @@
 
 ## 🚀 About Me
 
-> 💻 **Passionate Flutter Developer** from Egypt with **4+ years** of experience in building production-level mobile applications
+> 💻 **Senior Flutter Developer** from Egypt with **4+ years** of experience building production-level mobile and web applications. Currently at **Sourcya** and **open to new opportunities**.
 
 - 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS, Web)
 - 📱 **Specialization**: High-performance apps with clean architecture
-- 🏆 **Achievement**: Reduced app load times by **70%** across projects
+- 🏆 **Achievement**: Reduced app load times across projects
 - 🎓 **Education**: B.Sc. Commerce (English Section) - Menoufia University (2019-2023)
 - 👨‍🏫 **Mentorship**: Guided **6+ junior developers** on Flutter best practices
 - 📦 **Output**: **22+ production apps** across various platforms
-- ⚡ **Throughput**: **60+ shipped features** in 12 months across 22 active repos
+- ⚡ **Throughput**: **60+ shipped features** · **534+ commits** across **22+ active repos**
 
 ```mermaid
 graph LR
@@ -151,36 +151,19 @@ Performance Tuning    ███████████████████�
 ## 👔 Professional Experience
 
 ```mermaid
-timeline
-    title Professional Journey
-    
-    2022 : Freelance Flutter Developer
-         : Started Flutter development journey
-         : Built Az-Cash & El Aqarat apps
-    
-    2023 : Drop Me Company (Jan 2023 - Present)
-         : Lead Flutter Developer
-         : Community-driven recycling app
-    
-    2023 : Nofalseo Company (Jun 2023 - Jan 2024)
-         : Flutter Developer
-         : Cars, General Consultation, Super School
-    
-    2024 : Semicolon Company (Jan 2024 - Jul 2024)
-         : Flutter Developer
-         : Zaakr, 3M Physics, E-learning apps
-    
-    2025 : Mafrooz Company (Jan 2025 - Jun 2025)
-         : Senior Flutter Developer
-         : Performance optimization expert
-    
-    2025 : Sourcya Company (Sep 2025 - Present)
-         : Senior Flutter Developer
-         : TMT Track, Nasni, Kold, Arbeta, Rehla
-    
-    2026 : Sourcya Company (Sep 2025 - Present)
-         : Senior Flutter Developer
-         : 534+ commits, 20+ repos, 60+ shipped features
+graph LR
+    A["2022<br/>Freelance<br/>Az-Cash & El Aqarat"] --> B["2023<br/>Drop Me · Nofalseo<br/>Cars, General Consultation"]
+    B --> C["2024<br/>Semicolon<br/>Zaakr, 3M Physics, E-learning"]
+    C --> D["Jan-Jun 2025<br/>Mafrooz<br/>Performance optimization"]
+    D --> E["Sep 2025 - Present<br/>Sourcya<br/>Senior Flutter Developer"]
+    E --> F["2026<br/>534+ commits · 22+ repos<br/>60+ shipped features"]
+
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FECA57
+    style F fill:#FF9FF3
 ```
 
 ### 🏢 **Current Positions**
@@ -298,7 +281,7 @@ timeline
 
 ### 💡 **General Consultation**
 > B2B consulting platform connecting businesses with experts
-- **GitHub**: [View Repository](https://github.com/OmarSaeed20/General-Consultation-.git)
+- **GitHub**: [View Repository](https://github.com/OmarSaeed20/general-consultation)
 - **Features**: Real-time consultations, multi-domain expertise
 - **Domains**: Marketing, Finance, Strategy consulting
 
@@ -323,17 +306,24 @@ timeline
 | **Team Leadership** | Mentored 6+ developers | 2023-Present |
 | **Localization Expert** | Arabic/English in all apps | 2022-Present |
 | **Production Deployments** | 22+ production apps across platforms | 2022-Present |
-| **Throughput** | 534+ commits across 20+ repos, 61 features | 2025-2026 |
+| **Throughput** | 534+ commits across 22 repos, 61 features | 2025-2026 |
 
 </div>
 
 ```mermaid
-pie title Skills Distribution
-    "Flutter Development" : 40
-    "Architecture & Design" : 25
-    "Performance Optimization" : 15
-    "Team Leadership" : 10
-    "DevOps & Deployment" : 10
+graph TD
+    A["Flutter Development<br/>40%"] --> R(("Skills Distribution"))
+    B["Architecture & Design<br/>25%"] --> R
+    C["Performance Optimization<br/>15%"] --> R
+    D["Team Leadership<br/>10%"] --> R
+    E["DevOps & Deployment<br/>10%"] --> R
+
+    style A fill:#45B7D1
+    style B fill:#4ECDC4
+    style C fill:#96CEB4
+    style D fill:#FECA57
+    style E fill:#FF9FF3
+    style R fill:#FF6B6B
 ```
 
 ---
@@ -415,31 +405,41 @@ pie title Skills Distribution
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Omar Saeed))
-    🎯 Expertise
-      4+ Years Experience
-      Production Apps
-      Performance Expert
-    🤝 Collaboration
-      Team Leadership
-      Mentorship
-      Problem Solving
-    🚀 Innovation
-      Clean Architecture
-      Modern Technologies
-      Continuous Learning
-    📱 Specialization
-      Flutter Expert
-      Cross-platform
-      UI/UX Focus
+graph TD
+    O(("Omar Saeed"))
+    O --> A["🎯 Expertise"]
+    O --> B["🤝 Collaboration"]
+    O --> C["🚀 Innovation"]
+    O --> D["📱 Specialization"]
+
+    A --> A1["4+ Years Experience"]
+    A --> A2["22+ Production Apps"]
+    A --> A3["Performance Expert"]
+
+    B --> B1["Team Leadership"]
+    B --> B2["Mentorship"]
+    B --> B3["Problem Solving"]
+
+    C --> C1["Clean Architecture"]
+    C --> C2["Modern Technologies"]
+    C --> C3["Continuous Learning"]
+
+    D --> D1["Flutter Expert"]
+    D --> D2["Cross-platform"]
+    D --> D3["UI/UX Focus"]
+
+    style O fill:#FF6B6B
+    style A fill:#45B7D1
+    style B fill:#4ECDC4
+    style C fill:#96CEB4
+    style D fill:#FECA57
 ```
 
 </div>
 
 ### ✨ **Core Strengths**
 - 🎯 **Proven Track Record**: 22+ production apps across multiple platforms
-- ⚡ **Performance Expert**: Consistently improved app performance by 70%
+- ⚡ **Performance Expert**: Consistently improved app performance
 - 👥 **Team Leadership**: Successfully mentored junior developers
 - 🏗️ **Architecture Guru**: Clean Architecture and SOLID principles advocate
 - 🌍 **Global Ready**: Multilingual apps with proper localization
@@ -454,7 +454,7 @@ mindmap
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-blond.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-omarhamode106@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhamode106@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Saeed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saeed-5a25491ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Saeed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saied-5a25491ba)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+201067496938-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/S75YYDZVP773A1)
 [![GitHub](https://img.shields.io/badge/GitHub-OmarSaeed20-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarSaeed20)
 
