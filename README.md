@@ -82,30 +82,30 @@ Performance Tuning    ███████████████████�
 #### **Languages & Frameworks**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### **State Management**
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-1F2A44?style=for-the-badge&logo=riverpod&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-1F2A44?style=for-the-badge&logoColor=white)
 ![RxDart](https://img.shields.io/badge/RxDart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### **Backend & Services**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![Remote Config](https://img.shields.io/badge/Remote_Config-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Remote Config](https://img.shields.io/badge/Remote_Config-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -113,7 +113,7 @@ Performance Tuning    ███████████████████�
 ![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### **Persistence**
-![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Secure storage](https://img.shields.io/badge/flutter_secure_storage-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -133,14 +133,14 @@ Performance Tuning    ███████████████████�
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### 📱 **Native & Performance**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Platform Channels](https://img.shields.io/badge/Platform_Channels-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Background GPS](https://img.shields.io/badge/Background_GPS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### 🎨 **Design Systems**
-![Material Design 3](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material_Design_3-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
 
 #### 💼 **PM & Productivity**
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
@@ -148,12 +148,12 @@ Performance Tuning    ███████████████████�
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 #### 🤖 **AI & MCP**
-![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=claude&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Composio](https://img.shields.io/badge/Composio-7C3AED?style=for-the-badge&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-D97757?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=black)
+![Composio](https://img.shields.io/badge/Composio-7C3AED?style=for-the-badge&logo=composio&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-D97757?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 #### ☁️ **Infra & Observability**
