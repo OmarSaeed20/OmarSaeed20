@@ -94,8 +94,10 @@ Performance Tuning    ███████████████████�
 #### **Backend & Services**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Remote Config](https://img.shields.io/badge/Remote_Config-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
@@ -125,6 +127,18 @@ Performance Tuning    ███████████████████�
 ![Codemagic](https://img.shields.io/badge/Codemagic-F45E43?style=for-the-badge&logo=codemagic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+#### 🏗️ **Architecture & Codegen**
+![Freezed](https://img.shields.io/badge/Freezed-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![json_serializable](https://img.shields.io/badge/json_serializable-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### 📱 **Native & Performance**
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Platform Channels](https://img.shields.io/badge/Platform_Channels-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Background GPS](https://img.shields.io/badge/Background_GPS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 #### 🎨 **Design Systems**
 ![Material Design 3](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
@@ -137,8 +151,8 @@ Performance Tuning    ███████████████████�
 ![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=claude&logoColor=black)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![Composio](https://img.shields.io/badge/Composio-7C3AED?style=for-the-badge&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-D97757?style=for-the-badge)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
