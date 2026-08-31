@@ -88,6 +88,8 @@ Performance Tuning    ███████████████████�
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge)
 ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-1F2A44?style=for-the-badge&logo=riverpod&logoColor=white)
+![RxDart](https://img.shields.io/badge/RxDart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### **Backend & Services**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -209,8 +211,11 @@ graph LR
 | **Arbeta** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.arbeta.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/arbeta-workforce/id6746787214) |
 | **Ammena** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.sourcya.swnw.app) [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://swnw.amenaa.com/) |
 | **Mafrooz** | [![Web App](https://img.shields.io/badge/Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://hub.app.mfroz.com/) |
-| **Rehla** | [![Driver GP](https://img.shields.io/badge/Driver_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.driver.app) [![Passenger GP](https://img.shields.io/badge/Passenger_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.rehla.passenger.app) [![Operator Web](https://img.shields.io/badge/Operator_Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rehla-operator-app.vercel.app/) [![Station Web](https://img.shields.io/badge/Station_Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rehla-station-app.vercel.app/) |
-> 💡 **Additional Apps**: Madaan Operator, Mafrooz Cockpit, Rehla Ride, Maydan, Ujrah Driver, PlayX Ecosystem, Az-Cash, El Aqarat, Zaakr, 3M Physics, Super School, E-learning, Cars, General Consultation — bringing the total to **22+ production apps** across various platforms.
+| **Rehla** | [![Driver GP](https://img.shields.io/badge/Driver_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.driver.app) [![Driver AS](https://img.shields.io/badge/Driver_AS-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/rehla-driver/id6759146405) [![Passenger GP](https://img.shields.io/badge/Passenger_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.altatawwar.rehla.passenger.app) [![Operator GP](https://img.shields.io/badge/Operator_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.operator.app) [![Operator Web](https://img.shields.io/badge/Operator_Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rehla-operator-app.vercel.app/) [![Station Web](https://img.shields.io/badge/Station_Web-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://rehla-station-app.vercel.app/) |
+| **Madaan** | [![Operator GP](https://img.shields.io/badge/Operator_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.madaan.operator.app) [![Operator AS](https://img.shields.io/badge/Operator_AS-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/madan-operator/id6780871967) [![Workforce GP](https://img.shields.io/badge/Workforce_GP-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.madaan.workforce.app) [![Workforce AS](https://img.shields.io/badge/Workforce_AS-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/madan-workforce/id6757802559) |
+| **Rehla Ride** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.almaarefa.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/almaarefa-university-rides/id6797461812) |
+| **Maydan** | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sa.com.altatawwar.maydan.app) |
+> 💡 **Additional Apps**: PlayX Ecosystem, Az-Cash, El Aqarat, Zaakr, 3M Physics, Super School, E-learning, Cars, General Consultation — bringing the total to **22+ production apps** across various platforms.
 
 
 </div>
@@ -273,13 +278,7 @@ graph LR
 
 ---
 
-### 🚗 **Cars**
-> C2S marketplace for automotive services
-- **GitHub**: [View Repository](https://github.com/OmarSaeed20/Cars.git)
-- **Features**: Service provider matching, maintenance booking, spare parts
-- **Architecture**: Clean Architecture with BLoC state management
-
-### 💡 **General Consultation**
+###  **General Consultation**
 > B2B consulting platform connecting businesses with experts
 - **GitHub**: [View Repository](https://github.com/OmarSaeed20/general-consultation)
 - **Features**: Real-time consultations, multi-domain expertise
