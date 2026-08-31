@@ -138,6 +138,7 @@ Performance Tuning    ███████████████████�
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Composio](https://img.shields.io/badge/Composio-7C3AED?style=for-the-badge&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
