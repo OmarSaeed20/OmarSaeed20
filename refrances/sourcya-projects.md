@@ -14,12 +14,11 @@ https://play.google.com/store/apps/details?id=com.altatawwar.nasni.app
 + App Store
 https://apps.apple.com/eg/app/nasni/id6754703562
 + Web App
-app.nasni.io
+https://app.nasni.io/
 
 *Kold*
 + Google Play
-https://play.google.com/store/apps/details?id=com.altatawwar.
-kold.app
+https://play.google.com/store/apps/details?id=com.altatawwar.kold.app
 + App Store
 https://apps.apple.com/eg/app/kold/id6754703360
 + Web App
@@ -47,7 +46,7 @@ https://play.google.com/store/apps/details?id=sa.com.altatawwar.rehla.driver.app
 + App Store
 https://apps.apple.com/eg/app/rehla-driver/id6759146405
 + Web App
-rehla-driver-app.vercel.app
+https://rehla-driver-app.vercel.app/
 
 *Rehla-passenger*
 + Google Play
@@ -70,6 +69,6 @@ https://play.google.com/store/apps/details?id=io.sourcya.swnw.app
 https://swnw.amenaa.com/
 
 *Mafrooz*
-Rcycling Services Platform
+Recycling Services Platform
 + Web App
 https://hub.app.mfroz.com/

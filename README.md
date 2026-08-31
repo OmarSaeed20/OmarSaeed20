@@ -1,12 +1,12 @@
 
 <div id="header" align="center">
   <h1>
-    👋 Omar Saeed - Senior Flutter Developer
+    👋 Omar Saeed - Senior Flutter Engineer
   </h1>
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a> -->
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=30&pause=1000&color=00000&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+i'm+Omar+Saeed" /></a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Senior+Flutter+Developer;4%2B+Years+%C2%B7+22%2B+Production+Apps;Open+to+new+opportunities&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;I'm+Senior+Flutter+Engineer;4%2B+Years+%C2%B7+22%2B+Production+Apps;Open+to+select+senior+opportunities&font=Fira%20Code&center=true&width=440&height=45&color=204AF7&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-blond.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-saied-5a25491ba)
@@ -21,15 +21,13 @@
 
 ## 🚀 About Me
 
-> 💻 **Senior Flutter Developer** from Egypt with **4+ years** of experience building production-level mobile and web applications. Currently at **Sourcya** and **open to new opportunities**.
+> 💻 **Senior Flutter Engineer** from Egypt with **4+ years** of experience building production-level mobile and web applications. Currently at **Sourcya** and **open to select senior opportunities**.
 
 - 🎯 **Expertise**: Cross-platform mobile apps (Android, iOS, Web)
 - 📱 **Specialization**: High-performance apps with clean architecture
-- 🏆 **Achievement**: Reduced app load times across projects
-- 🎓 **Education**: B.Sc. Commerce (English Section) - Menoufia University (2019-2023)
-- 👨‍🏫 **Mentorship**: Guided **6+ junior developers** on Flutter best practices
+- � **Education**: B.Sc. Commerce (English Section) - Menoufia University (2019-2023)
+- 👨‍🏫 **Mentorship**: Mentored junior developers on Flutter clean architecture and code-review practices
 - 📦 **Output**: **22+ production apps** across various platforms
-- ⚡ **Throughput**: **60+ shipped features** · **534+ commits** across **22+ active repos**
 
 ```mermaid
 graph LR
@@ -54,24 +52,20 @@ graph LR
 ## 🎯 Technical Skills
 
 ### 📱 **Mobile Development**
-```
-Flutter & Dart        ████████████████████ 95%
-State Management      ████████████████████ 90%
-Clean Architecture    ████████████████████ 88%
-Performance Tuning    ████████████████████ 85%
-```
+
+Flutter/Dart · GetX · BLoC/Cubit · Provider · Clean Architecture · Realtime (WebSocket/Pusher) · CI/CD (Fastlane/Codemagic/GitHub Actions)
 
 <details>
 <summary><strong>🔧 Core Technologies</strong></summary>
 
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| **Flutter** | ⭐⭐⭐⭐⭐ | 4+ years |
-| **Dart** | ⭐⭐⭐⭐⭐ | 4+ years |
-| **BLoC/Cubit** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **GetX** | ⭐⭐⭐⭐ | 4+ years |
-| **Provider** | ⭐⭐⭐⭐ | 1+ years |
-| **Firebase** | ⭐⭐⭐⭐⭐ | 2+ years |
+| Technology | Experience |
+|------------|------------|
+| **Flutter** | 4+ years |
+| **Dart** | 4+ years |
+| **BLoC/Cubit** | 2+ years |
+| **GetX** | 4+ years |
+| **Provider** | 1+ years |
+| **Firebase** | 2+ years |
 
 </details>
 
@@ -171,16 +165,14 @@ Performance Tuning    ███████████████████�
 graph LR
     A["2022<br/>Freelance<br/>Az-Cash & El Aqarat"] --> B["2023<br/>Drop Me · Nofalseo<br/>Cars, General Consultation"]
     B --> C["2024<br/>Semicolon<br/>Zaakr, 3M Physics, E-learning"]
-    C --> D["Jan-Jun 2025<br/>Mafrooz<br/>Performance optimization"]
-    D --> E["Sep 2025 - Present<br/>Sourcya<br/>Senior Flutter Developer"]
-    E --> F["2026<br/>534+ commits · 22+ repos<br/>60+ shipped features"]
+    C --> D["2025<br/>Mafrooz → Sourcya<br/>Performance optimization, multi-app platforms"]
+    D --> E["2025 - Present<br/>Sourcya<br/>Senior Flutter Engineer"]
 
     style A fill:#FF6B6B
     style B fill:#4ECDC4
     style C fill:#45B7D1
     style D fill:#96CEB4
     style E fill:#FECA57
-    style F fill:#FF9FF3
 ```
 
 ### 🏢 **Current Positions**
@@ -190,7 +182,7 @@ graph LR
 <td width="50%">
 
 #### 🚀 **Sourcya Company**
-**Senior Flutter Developer** _(Sep 2025 - Present)_
+**Senior Flutter Engineer** _(Sep 2025 - Present)_
 - Multi-app delivery & workforce platform development
 - GPS tracking, ride-hailing, and logistics apps
 - Cross-platform (Android, iOS, Web)
@@ -316,11 +308,11 @@ graph LR
 
 | 🎯 Achievement | 📊 Impact | 🗓️ Timeline |
 |----------------|-----------|-------------|
-| **Performance Optimization** | 70% faster load times | 2023-2024 |
-| **Team Leadership** | Mentored 6+ developers | 2023-Present |
+| **Performance Optimization** | Deferred non-critical Firebase init and precached first-route assets to cut cold start | 2023-2024 |
+| **Team Leadership** | Mentored junior developers on clean architecture and code review | 2023-Present |
 | **Localization Expert** | Arabic/English in all apps | 2022-Present |
 | **Production Deployments** | 22+ production apps across platforms | 2022-Present |
-| **Throughput** | 534+ commits across 22 repos, 61 features | 2025-2026 |
+| **Reusable Infrastructure** | Built `sourcya_in_app_rating` package (5+ apps), PlayX ecosystem enhancements, Staging/Production flavors | 2025-Present |
 
 </div>
 
@@ -428,7 +420,7 @@ graph TD
 
     A --> A1["4+ Years Experience"]
     A --> A2["22+ Production Apps"]
-    A --> A3["Performance Expert"]
+    A --> A3["Realtime Systems"]
 
     B --> B1["Team Leadership"]
     B --> B2["Mentorship"]
@@ -440,7 +432,7 @@ graph TD
 
     D --> D1["Flutter Expert"]
     D --> D2["Cross-platform"]
-    D --> D3["UI/UX Focus"]
+    D --> D3["Production Reliability"]
 
     style O fill:#FF6B6B
     style A fill:#45B7D1
@@ -453,8 +445,8 @@ graph TD
 
 ### ✨ **Core Strengths**
 - 🎯 **Proven Track Record**: 22+ production apps across multiple platforms
-- ⚡ **Performance Expert**: Consistently improved app performance
-- 👥 **Team Leadership**: Successfully mentored junior developers
+- ⚡ **Performance Expert**: Profile-first optimization — battery, cold start, background GPS tuning
+- 👥 **Team Leadership**: Mentored junior developers on clean architecture and code review
 - 🏗️ **Architecture Guru**: Clean Architecture and SOLID principles advocate
 - 🌍 **Global Ready**: Multilingual apps with proper localization
 
